@@ -41,7 +41,7 @@ def pred_cot_dieas(cott_plant):
       return 'Diseased Okra Leaf', 'Disease_Okra_leaf.html'  # if index 2  fresh leaf
   elif pred== 3:
       #print ("f cotton leaf")
-      return 'Freash Cotton Leaf', 'healthy_plant.html'
+      return 'Fresh Cotton Leaf', 'healthy_plant.html'
   elif pred ==4:
       #print ("f cotton plant")
       return 'Fresh Cotton Plant', 'healthy_plant.html'
